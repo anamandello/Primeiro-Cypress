@@ -1,0 +1,20 @@
+[
+  {
+    "email": "testeskywalker@test.test",
+    "fullName": "Teste Skywalkerr",
+    "userName": "testeskywalkerr",
+    "password": "teesteSkywalkerr"
+  },
+  {
+    "email": "testeleia@test.test",
+    "fullName": "Teste Leiaa",
+    "userName": "testeleiaa",
+    "password": "teesteLeiaa"
+  },
+  {
+    "email": "testeAnakin@test.test",
+    "fullName": "Teste Anakinn",
+    "userName": "testeanakinn",
+    "password": "teesteanakinn"
+  }
+]
